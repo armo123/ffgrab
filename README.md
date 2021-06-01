@@ -1,3 +1,3 @@
 # ffgrab
 ffmpeg desktop recorder
-light weight ffmpeg wrapper to record desktop
+light weight ffmpeg frontendto record desktop
